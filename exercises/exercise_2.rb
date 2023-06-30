@@ -13,4 +13,4 @@ puts @store2.name
 
 @store1.name = 'Kitsilano'
 
-puts puts @store1.name
+puts @store1.name
